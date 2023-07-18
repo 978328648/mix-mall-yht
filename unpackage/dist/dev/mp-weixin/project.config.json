@@ -18,7 +18,7 @@
     }
   },
   "compileType": "miniprogram",
-  "libVersion": "2.33.0",
+  "libVersion": "3.0.0",
   "appid": "wx1db34817e81a7dc9",
   "projectname": "yht",
   "condition": {},
